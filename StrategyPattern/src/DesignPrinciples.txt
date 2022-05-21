@@ -1,0 +1,10 @@
+Principle 1: Identify the aspects of your application that vary and separate them from what stays the same.
+Take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those that don't.
+
+Principle 2: Program to an interface, not an implementation.
+
+Principle 3: Favor composition over inheritance.
+
+The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable.
+Strategy lets the algorithm vary independently of clients that use it.
+
